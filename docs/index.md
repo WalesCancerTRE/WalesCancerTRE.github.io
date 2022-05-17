@@ -14,7 +14,7 @@ The TRE will interlink key data assets, high-performance analysis platforms, alo
 
 ## Pillars of our TRE
 
-- [Interlinked Data](data.html)
+- [Interlinked Data Assets](data.html)
 - [Pre-configured Analysis Systems](systems.html)
-- [Clear Access Routes](access.html)
-- [Trusted Researchers](trust.html)
+- [Pre-agreed Access Frameworks](access.html)
+- [Trust](trust.html)
