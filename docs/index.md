@@ -4,9 +4,9 @@ title: Index
 nav_exclude: true
 ---
 
-# Wales Cancer TRE
+# Wales Cancer TRE Project
 
-The Trusted Research Environment for Cancer Researchers in Wales
+Establishing the Trusted Research Environment for Cancer Researchers in Wales.
 
 ![screenshot](assets/img/screenshot.png)
 
