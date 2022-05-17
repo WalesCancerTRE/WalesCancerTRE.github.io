@@ -14,7 +14,7 @@ The TRE will interlink key data assets, high-performance analysis platforms, alo
 
 ## Pillars of our TRE
 
-- [Data](Data)
-- [Systems](Systems)
-- [Access](Access)
-- [Trust](Trust)
+- [Data](data.html)
+- [Systems](systems.html)
+- [Access](access.html)
+- [Trust](trust.html)
