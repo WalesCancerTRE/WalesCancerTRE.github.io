@@ -14,7 +14,7 @@ The TRE will interlink key data assets, high-performance analysis platforms, alo
 
 ## Pillars of our TRE
 
-- [Data](data.html)
-- [Systems](systems.html)
-- [Access](access.html)
-- [Trust](trust.html)
+- [Interlinked Cancer Data](data.html)
+- [Expert Analysis Systems](systems.html)
+- [Clear Access Routes](access.html)
+- [Trusted Researchers](trust.html)
