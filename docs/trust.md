@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Demo Pages Index
-nav_order: 1
+title: Trust
+nav_order: 4
 ---
 
 # Demo Pages Index
