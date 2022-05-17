@@ -4,24 +4,12 @@ title: Index
 nav_exclude: true
 ---
 
-# Read The Docs Theme for Jekyll and GitHub Pages
+# Wales Cancer TRE
 
-This is a port of the
-[Read The Docs](https://sphinx-rtd-theme.readthedocs.io) theme to
-[Jekyll](https://jekyllrb.com/), so that it can be used with GitHub Pages.
-
-You are previewing the theme right now, as you navigate
-[this documentation](https://carlosperate.github.io/jekyll-theme-rtd):
+The Trusted Research Environment for Cancer Researchers in Wales
 
 ![screenshot](assets/img/screenshot.png)
 
-The original [Read The Docs](https://readthedocs.org)
-[theme]((https://sphinx-rtd-theme.readthedocs.io)) was created for the
-[Sphinx](https://www.sphinx-doc.org/) documentation generator, and so it is
-designed specifically for docs.
-
-Combined with [GitHub Pages](https://pages.github.com) it's a great and easy
-way to document your projects!
 
 ## What Can You Find Around Here
 
@@ -31,15 +19,3 @@ way to document your projects!
   [Theme Configuration](https://carlosperate.github.io/jekyll-theme-rtd/configuration/configyml.html)
   and the [Pages Configuration](https://carlosperate.github.io/jekyll-theme-rtd/configuration/frontmatter.html)
   pages.
-
-## 🚧 Warning!
-
-This theme is currently a **Work-In-Progress** but, while some things might be
-broken, it should be already usable.
-
-Missing features are listed in the GitHub issues with the
-[to-do label](https://github.com/carlosperate/jekyll-theme-rtd/issues?q=is%3Aissue+is%3Aopen+label%3Ato-do),
-and any known issues are listed with the
-[bug label](https://github.com/carlosperate/jekyll-theme-rtd/issues?q=is%3Aissue+is%3Aopen+label%3Abug).
-
-Contributions are very welcomed!
