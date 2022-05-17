@@ -3,11 +3,11 @@ description: The Trusted Research Environment for Cancer Researchers in Wales
 remote_theme: carlosperate/jekyll-theme-rtd
 
 # Theme settings:
-site_author: Peter Giles
+site_author: WalesCancerTRE
 repo_url: "https://github.com/WalesCancerTRE/WalesCancerTRE.github.io"
 edit_on_github: false
 github_docs_folder: true
 sticky_navigation: true
-prev_next_buttons_location: bottom
+prev_next_buttons_location: top
 search_enabled: true
 hljs_style: github-gist
