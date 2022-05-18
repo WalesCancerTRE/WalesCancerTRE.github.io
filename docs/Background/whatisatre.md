@@ -7,7 +7,7 @@ nav_order: 5
 # What is a Trusted Research Environment?
 
 
-Trusted Research Environment are the computing equivalent of a reference library.   
+Trusted Research Environments are the computing equivalent of a reference library.   
 
 Accredited individuals are able to obtain access to information within the system and then undertake analysis or review the data whilst within the system.  The core data never leaves the system and what is taken away may be restricted or reviewed.
 
