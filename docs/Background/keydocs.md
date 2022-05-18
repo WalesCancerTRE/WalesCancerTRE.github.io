@@ -31,5 +31,8 @@ A review around developing and publishing code for Trusted Research Environments
 ## HDR-UK 
 
 
+- [Principles and Best Practices; Towards TRE ecosystems](https://zenodo.org/record/5767586#.YoTHti1Q03k)
+
+- [Trusted Research Environments (TRE) A strategy to build public trust and meet changing health data science needs](https://ukhealthdata.org/wp-content/uploads/2020/07/200723-Alliance-Board_Paper-E_TRE-Green-Paper.pdf)
 
 
