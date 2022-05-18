@@ -29,4 +29,4 @@ TREs are underpinned by 5 principles:
 - Safe Outputs - Only certain data can leave the TRE, and checks are made to ensure that it remains de-identified.
 
 
-![HRD-UK What Is a TRE!](/background/whatisatre.png "HRD-UK What Is a TRE")
+![HRD-UK What Is a TRE!](/Background/whatisatre.png "HRD-UK What Is a TRE")
