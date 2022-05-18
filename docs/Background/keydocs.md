@@ -6,9 +6,7 @@ nav_order: 6
 
 # Key Publications
 
-## Goldache Review
-
-[https://www.goldacrereview.org](https://www.goldacrereview.org)
+## [Goldache Review](https://www.goldacrereview.org)
 
 The review led by Professor Ben Goldacre into how the efficient and safe use of health data for research and analysis can benefit patients and the healthcare sector. 
 
@@ -28,7 +26,7 @@ A review around developing and publishing code for Trusted Research Environments
 - [Full Review ]( https://www.turing.ac.uk/sites/default/files/2021-11/wmml_turing_project_report_01_nov_21.pdf)
 
 
-## HDR-UK 
+## [HDR-UK](https://www.hdruk.ac.uk/access-to-health-data/trusted-research-environments/) 
 
 
 - [Principles and Best Practices; Towards TRE ecosystems](https://zenodo.org/record/5767586#.YoTHti1Q03k)
