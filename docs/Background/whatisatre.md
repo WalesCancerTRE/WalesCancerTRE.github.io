@@ -18,25 +18,15 @@ This approach is particularly appealing with healthcare data as it provides a wa
 
 TREs are underpinned by 5 principles:
 
-- Safe People
+- Safe People - Users of the system must be accredited, undetake training and agree to utilise the data and systems in appropriate ways.
 
-Users of the system must be accredited, undetake training and agree to utilise the data and systems in appropriate ways.
+- Safe Projects - Data is only used for projects with sounds ethics, which have a clear research plan with public benefit.
 
-- Safe Projects
+- Safe Settings - Access is only possible by using secure technology and data never leaves the TRE.
 
-Data is only used for projects with sounds ethics, which have a clear research plan with public benefit.
+- Safe Data - Privacy is ensure by making data available in a de-identified manner.
 
-- Safe Settings
-
-Access is only possible by using secure technology and data never leaves the TRE.
-
-- Safe Data
-
-Privacy is ensure by making data available in a de-identified manner.
-
-- Safe Outputs
-
-Only certain data can leave the TRE, and checks are made to ensure that it remains de-identified.
+- Safe Outputs - Only certain data can leave the TRE, and checks are made to ensure that it remains de-identified.
 
 
 ![HRD-UK What Is a TRE!](/background/whatisatre.png "HRD-UK What Is a TRE")
