@@ -37,3 +37,6 @@ Privacy is ensure by making data available in a de-identified manner.
 - Safe Outputs
 
 Only certain data can leave the TRE, and checks are made to ensure that it remains de-identified.
+
+
+![HRD-UK What Is a TRE!](/background/whatisatre.png "HRD-UK What Is a TRE")
